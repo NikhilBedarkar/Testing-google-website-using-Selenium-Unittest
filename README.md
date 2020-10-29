@@ -7,3 +7,6 @@ Steps to follow:
 3. Install packages from requirements.txt.
 4. Run unittest_selenium.py
 5. Done
+
+Output:
+![alt text](success.PNG)
